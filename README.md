@@ -56,7 +56,5 @@ Load Data
 → Model Training
 → Evaluation
 → Prediction
-→ Submission
 ```
 
-https://www.kaggle.com/competitions/spaceship-titanic
